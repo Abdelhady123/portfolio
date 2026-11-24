@@ -42,7 +42,7 @@ const CONTENT = {
     hero: {
       hi: "Hi, I'm",
       name: "Abdalhadi Almajali",
-      roles: ["Android Developer", "QA Engineer", "Kotlin & Jetpack Compose", "Manual & Automation Tester"],
+      roles: ["Android Developer", "QA Engineer", "Kotlin & Jetpack Compose", "AI-Driven Development"],
       tagline: "I build reliable Android apps with Kotlin and Jetpack Compose, and test every feature end to end so it ships stable.",
       projects: "View projects",
       contact: "Contact me",
@@ -151,7 +151,7 @@ const CONTENT = {
     hero: {
       hi: "مرحبًا، أنا",
       name: "عبدالهادي المجالي",
-      roles: ["مطوّر أندرويد", "مهندس ضمان الجودة", "Kotlin و Jetpack Compose", "اختبار يدوي وآلي"],
+      roles: ["مطوّر أندرويد", "مهندس ضمان الجودة", "Kotlin و Jetpack Compose", "التطوير المدعوم بالذكاء الاصطناعي"],
       tagline: "أبني تطبيقات أندرويد موثوقة باستخدام Kotlin و Jetpack Compose، وأختبر كل ميزة من البداية إلى النهاية لضمان إصدارات مستقرة.",
       projects: "عرض المشاريع",
       contact: "تواصل معي",

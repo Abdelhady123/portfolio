@@ -171,6 +171,7 @@ html[lang="ar"] .typed { font-family: var(--font); font-weight: 600; }
 .float.f1 { top: 6%; inset-inline-start: -8%; }
 .float.f2 { top: 46%; inset-inline-end: -12%; animation-delay: -1.6s; }
 .float.f3 { bottom: 4%; inset-inline-start: 2%; animation-delay: -3.2s; }
+.float.f4 { top: 4%; inset-inline-end: -10%; animation-delay: -2.4s; }
 @keyframes bob { 50% { transform: translateY(-10px); } }
 
 /* ---------- About ---------- */

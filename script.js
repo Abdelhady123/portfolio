@@ -323,6 +323,7 @@ function renderHero(c) {
       <span class="float f1"><i></i>Kotlin</span>
       <span class="float f2"><i></i>Jetpack Compose</span>
       <span class="float f3"><i></i>QA · Jira</span>
+      <span class="float f4"><i></i>AI-Driven Development</span>
     </div>`;
   // Show assets/photo.jpg if it exists; keep the initials otherwise.
   const img = new Image();
